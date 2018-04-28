@@ -31,7 +31,7 @@ Here are some resources to help you in your journey with GraphQL!
 
 ### Other
 
-* [Slides](https://docs.google.com/presentation/d/1FeWLuHAJHMkhwy3RDq63StkzEorIkeHPfehEKzlLVUo/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1V6thfphJ_p2mpZrR4OBCEOngo3jQD8WjbQuMD1fUQVk/edit?usp=sharing)
 * [Snowtooth Playground](http://snowtooth.herokuapp.com/playground)
 * [Activity Start](https://launchpad.graphql.com/37n8w3mwxv)
 * [Activity Complete](https://launchpad.graphql.com/kq5zzqkrl7)
